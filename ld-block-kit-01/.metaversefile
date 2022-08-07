@@ -1,4 +1,7 @@
 {
   "name": "ld-block-kit-01",
-  "start_url": "webaverse-ld-block-kit-01.glb"
+  "start_url": "index.js",
+  "physics": false,
+  "dynamic": true
 }
+
